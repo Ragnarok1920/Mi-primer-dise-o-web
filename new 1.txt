@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+<title> Las 7 maravillas </title>
+<h1> Las 7 maravillas del mundo </h1>
+<p> En esta página veremos las impresionantes e imponentes 7 maravillas del mundo. 
+Empezando por Machu-Pichu, en Cuzco,Perú. Chichén Itzá, en México. El Coliseo de Roma, en Italia. 
+La estatua Cristo Redentor, en Río de Janeiro, Brasil. La Gran Muralla China, en China. Petra, en Jordania y
+El Taj Mahal, en Agra, India. <p> 
+<img src=""alt="La gran Muralla China"width="90"heigth="90"border="4">
+<img src=""alt="Cristo redentor en Rio de Janeiro, Brasil"width="90"heigth="90"border="4">
+
+</head> 
+<body>
+<h1> 
