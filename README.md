@@ -1,2 +1,2 @@
 # Mi-primer-dise-o-web
-https://rawgit.com/Ragnarok1920/Mi-primer-dise-o-web/master/README.md
+https://cdn.jsdelivr.net/gh/Ragnarok1920/Mi-primer-dise-o-web/README.md
